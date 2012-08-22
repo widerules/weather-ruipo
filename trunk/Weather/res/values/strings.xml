@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Weather</string>
+    <string name="app_name">Weather</string>
+    <string name="city">City: </string>
+    <string name="date">Date: </string>
+    <string name="time">Time: </string>
+    <string name="weather">Weather: </string>
+    <string name="wind">Wind: </string>
+    <string name="centigrade">Centigrade: </string>
+    <string name="fahrenheit">Fahrenheit: </string>
+    <string name="humidity">Humidity: </string>
+    <string name="lowest">Lowest Temperature: </string>
+    <string name="highest">Highest Temperature: </string>
+    <string name="future">The next four days weather conditions as follows: </string>
+    <string name="search">Search</string>
+    <string name="wait">Please wait...</string>
+    <string name="getting">Getting weather msg...</string>
+    <string name="nonet">No network service</string>
+    <string name="notfind">Didn\'t find the city the corresponding weather information, please check the city name is right!!!</string>
+    <string name="exit">Exit</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="isexit">Exit?</string>
+</resources>

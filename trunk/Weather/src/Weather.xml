@@ -1,0 +1,49 @@
+<?xml version="1.0" ?> 
+- <xml_api_reply version="1">
+- <weather module_id="0" tab_id="0" mobile_row="0" mobile_zipped="1" row="0" section="0">
+- <forecast_information>
+  <city data="Beijing, Beijing" /> 
+  <postal_code data="beijing" /> 
+  <latitude_e6 data="" /> 
+  <longitude_e6 data="" /> 
+  <forecast_date data="2011-10-21" /> 
+  <current_date_time data="2011-10-22 02:00:00 +0000" /> 
+  <unit_system data="SI" /> 
+  </forecast_information>
+- <current_conditions>
+  <condition data="雨" /> 
+  <temp_f data="57" /> 
+  <temp_c data="14" /> 
+  <humidity data="湿度： 76%" /> 
+  <icon data="/ig/images/weather/cn_heavyrain.gif" /> 
+  </current_conditions>
+- <forecast_conditions>
+  <day_of_week data="周五" /> 
+  <low data="10" /> 
+  <high data="21" /> 
+  <icon data="/ig/images/weather/sunny.gif" /> 
+  <condition data="晴" /> 
+  </forecast_conditions>
+- <forecast_conditions>
+  <day_of_week data="周六" /> 
+  <low data="11" /> 
+  <high data="23" /> 
+  <icon data="/ig/images/weather/mostly_sunny.gif" /> 
+  <condition data="以晴为主" /> 
+  </forecast_conditions>
+- <forecast_conditions>
+  <day_of_week data="周日" /> 
+  <low data="5" /> 
+  <high data="19" /> 
+  <icon data="/ig/images/weather/mostly_sunny.gif" /> 
+  <condition data="晴间多云" /> 
+  </forecast_conditions>
+- <forecast_conditions>
+  <day_of_week data="周一" /> 
+  <low data="-2" /> 
+  <high data="15" /> 
+  <icon data="/ig/images/weather/sunny.gif" /> 
+  <condition data="晴" /> 
+  </forecast_conditions>
+  </weather>
+  </xml_api_reply>
